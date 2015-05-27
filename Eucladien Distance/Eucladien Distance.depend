@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1432705645 source:/home/tonmoy/Desktop/Pattern Lab/Eucladien Distance/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
