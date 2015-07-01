@@ -76,8 +76,8 @@ int main()
     for (int i = 0; i < row; i++){
         cout<<x1[i]<<"\t"<<x2[i]<<"\t"<<distance[i]<<"\t\t"<<rank[i]<<"\t"<<decision[i]<<"\t\t"<<classification[i]<<"\n";
     }
-string ans;
-ans = (good > bad)? "Good" : "Bad";
+    string ans;
+    ans = (good > bad)? "Good" : "Bad";
     cout<<"\n\nAnswer is "<< ans;
 
     return 0;
