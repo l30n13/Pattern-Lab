@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1438148738 source:/home/tonmoy/Desktop/Patern Lab/Single Likage/main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
