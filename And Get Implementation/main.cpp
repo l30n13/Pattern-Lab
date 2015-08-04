@@ -22,7 +22,7 @@ int main()
             }
         }
 
-        /*for(int i = 0;i < 3;i++){
+        for(int i = 0;i < 3;i++){
             w_new[i] = x[i] * y;
         }
         for(int i = 0;i < 3;i++){
@@ -34,7 +34,7 @@ int main()
         for(int i = 0;i < 3;i++){
             cout<<w_new[i]<<" ";
         }
-        cout<<" ]\n";*/
+        cout<<" ]\n";
     }
 
     return 0;
